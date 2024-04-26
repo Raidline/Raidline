@@ -90,6 +90,14 @@
 <br>
 
 <li>
+<a href="https://stackoverflow.com/users/6079352/raidline" target="_blank">
+<img src="https://img.shields.io/badge/stackoverflow:  raidline-%23EA4335.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+</li>
+
+<br>
+
+<li>
 <a href="mailto:pedrofilipefialho19@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  pedrofilipefialho19-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
